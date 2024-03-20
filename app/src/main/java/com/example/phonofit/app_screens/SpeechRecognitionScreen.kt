@@ -25,8 +25,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.spokenenglishapp.MainActivity
-import com.example.spokenenglishapp.R
+import com.example.phonofit.MainActivity
+import com.example.phonofit.R
 
 
 @Composable
