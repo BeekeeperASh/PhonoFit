@@ -19,7 +19,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
-import com.example.spokenenglishapp.app_tools.Level
+import com.example.phonofit.app_tools.Level
 
 @Composable
 fun ChatLevels(list: List<Level>, navController: NavController, index: MutableState<Int>) {

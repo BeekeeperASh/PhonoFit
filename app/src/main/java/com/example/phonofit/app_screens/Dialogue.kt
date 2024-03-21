@@ -30,7 +30,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import com.example.spokenenglishapp.R
-import com.example.spokenenglishapp.app_tools.MessageItem
+import com.example.phonofit.app_tools.MessageItem
 import com.example.spokenenglishapp.firebase.Resources
 import com.example.spokenenglishapp.firebase.StorageRepository
 import com.example.spokenenglishapp.firebase.UserData
