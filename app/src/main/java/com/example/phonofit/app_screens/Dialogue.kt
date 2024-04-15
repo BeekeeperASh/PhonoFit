@@ -1,4 +1,4 @@
-package com.example.spokenenglishapp.app_screens
+package com.example.phonofit.app_screens
 
 import android.content.Context
 import android.media.MediaPlayer
@@ -29,11 +29,11 @@ import androidx.compose.ui.unit.sp
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.NavController
 import coil.compose.AsyncImage
-import com.example.spokenenglishapp.R
+import com.example.phonofit.R
 import com.example.phonofit.app_tools.MessageItem
-import com.example.spokenenglishapp.firebase.Resources
-import com.example.spokenenglishapp.firebase.StorageRepository
-import com.example.spokenenglishapp.firebase.UserData
+import com.example.phonofit.firebase.Resources
+import com.example.phonofit.firebase.StorageRepository
+import com.example.phonofit.firebase.UserData
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 

@@ -1,3 +1,105 @@
 <resources>
+
+    <string name="web_client_id">1035147341001-reiacd2sja6a0g67phekonq8fhcg926t.apps.googleusercontent.com</string>
+
     <string name="app_name">PhonoFit</string>
+
+    <string-array name="dialog_travel">
+        <item>Ben</item>
+        <item>Bob</item>
+        <item>Hi! Have you ever been on a trip to a foreign country?</item>
+        <item>Yes, I have. I went to Japan last year for two weeks.</item>
+        <item>Wow, that sounds exciting! What did you do there?</item>
+        <item>I visited Tokyo, Kyoto, and Osaka. I saw a lot of temples, went to some museums, and ate a ton of amazing food.</item>
+        <item>That sounds like a great experience. I\'ve always wanted to visit Japan. How did you plan your trip?</item>
+        <item>I did a lot of research online and asked for recommendations from friends who had been there before. I also used a travel agency to book my flights and hotels.</item>
+        <item>That\'s a good idea. I usually just book everything myself, but it can be overwhelming with so many options.</item>
+        <item>Yeah, using a travel agency made things a lot easier for me. They also gave me some great suggestions for things to do and see.</item>
+        <item>Did you have any language barriers while you were there?</item>
+        <item>A little bit, but most people spoke some English, especially in the tourist areas. I also used a translation app on my phone to help with any communication issues.</item>
+        <item>That\'s good to know. I\'ve been hesitant to travel to a foreign country because of the language barrier.</item>
+        <item>Don\'t let that stop you! It\'s a great experience to immerse yourself in a different culture and learn some new words and phrases.</item>
+        <item>You\'re right. I think I\'ll start planning my next trip soon. Thanks for the inspiration!</item>
+        <item>No problem. Let me know if you need any recommendations or tips!</item>
+
+        <item>Привет! Ты когда-нибудь путешествовал за границу?</item>
+        <item>Да, путешествовал. Я был в Японии в прошлом году две недели.</item>
+        <item>Вау, звучит увлекательно! Что ты делал там?</item>
+        <item>Я посетил Токио, Киото и Осаку. Я увидел много храмов, посетил несколько музеев и съел множество потрясающей еды.</item>
+        <item>Звучит как отличный опыт. Я всегда хотел посетить Японию. Как ты планировал свою поездку?</item>
+        <item> Я провел много исследований в Интернете и спросил рекомендации у друзей, которые уже были там.
+            Я также использовал туристическое агентство, чтобы забронировать мои авиабилеты и отели.</item>
+        <item>Это хорошая идея. Я обычно бронирую все самостоятельно, но может быть слишком много вариантов.</item>
+        <item>Да, использование туристического агентства сделало все гораздо проще для меня.
+            Они также дали мне несколько отличных предложений для того, что можно посмотреть и сделать.</item>
+        <item>У тебя были языковые барьеры, когда ты был там?</item>
+        <item>Немного, но большинство людей говорили на английском языке, особенно в туристических районах.
+            Я также использовал приложение для перевода на моем телефоне, чтобы помочь с любыми проблемами в общении.</item>
+        <item>Хорошо знать. Я был нерешительным для путешествовия за границу из-за языкового барьера.</item>
+        <item>Не позволяй этому остановить тебя! Это отличный опыт погрузиться в другую культуру и изучить новые слова и фразы.</item>
+        <item>Ты прав. Я думаю, что скоро начну планировать свою следующую поездку. Спасибо за вдохновение!</item>
+        <item>Без проблем. Дайте мне знать, если тебе понадобятся какие-либо рекомендации или советы!</item>
+    </string-array>
+
+    <string-array name="dialog_museum">
+        <item>Antonio</item>
+        <item>Brooke</item>
+        <item>Have you been to a museum?</item>
+        <item>No, not yet. What is it like?</item>
+        <item>Museums are places with art, history, and culture. You can see cool stuff there.</item>
+        <item>Sounds interesting. Any recommendations?</item>
+        <item>Depends on what you like. Contemporary Art Museum for modern art or National History Museum for history.</item>
+        <item>I\'m into history. What\'s there to see?</item>
+        <item>They have exhibits on different time periods, artifacts, and even dinosaur skeletons.</item>
+        <item>Cool! Is there an entrance fee?</item>
+        <item>Yeah, most museums have a fee, but some offer discounts or free days.</item>
+        <item>Got it. How long does it take to go through?</item>
+        <item>Depends on the size, could be a few hours or a whole day.</item>
+        <item>Alright. Anything else I should know?</item>
+        <item>Check their website for special exhibitions and wear comfy shoes.</item>
+        <item>Thanks! Looking forward to it.</item>
+        <item>Enjoy your visit and have fun exploring!</item>
+
+        <item>Ты бывал в музее?</item>
+        <item>Нет, ещё не был. Как там?</item>
+        <item>Музеи — это места с искусством, историей и культурой. Там можно увидеть интересные вещи.</item>
+        <item>Звучит интересно. Есть какие-то рекомендации?</item>
+        <item>Всё зависит от твоих предпочтений. Для современного искусства можно посетить Музей современного искусства, а для истории — Национальный исторический музей.</item>
+        <item>Меня интересует история. Что там можно увидеть?</item>
+        <item>В Национальном историческом музее есть выставки, посвященные разным историческим периодам, артефакты и даже скелеты динозавров.</item>
+        <item>Звучит здорово! Нужно ли платить за вход?</item>
+        <item>Да, в большинстве музеев есть плата за вход, но некоторые предлагают скидки или бесплатные дни.</item>
+        <item>Понятно. Сколько времени занимает посещение?</item>
+        <item>Зависит от размера музея и того, сколько времени ты хочешь провести у каждой экспозиции. Может занять от нескольких часов до целого дня.</item>
+        <item>Хорошо. Есть ли что-то ещё, о чём стоит знать?</item>
+        <item>Проверь их веб-сайт на наличие специальных выставок и событий, и не забудь надеть удобную обувь.</item>
+        <item>Спасибо! Жду с нетерпением.</item>
+        <item>Наслаждайся посещением и хорошо проведи время, исследуя все увлекательные экспозиции!</item>
+    </string-array>
+
+    <string-array name="dialog_2">
+        <item>Ben</item>
+        <item>Bob</item>
+        <item>Hello, Bob</item>
+        <item>Hello, Ben</item>
+        <item>How are you?</item>
+        <item>Fine</item>
+        <item>Привет</item>
+        <item>Здравствуй</item>
+        <item>Как дела?</item>
+        <item>У меня всё хорошо</item>
+    </string-array>
+
+    <string-array name="dialog_test">
+        <item>Ben</item>
+        <item>Bob</item>
+        <item>Hello, hi, good, bad</item>
+        <item>Hello, good, yes, no</item>
+        <item>How are you?</item>
+        <item>I am student</item>
+        <item>Привет</item>
+        <item>Здравствуй</item>
+        <item>Как дела?</item>
+        <item>У меня всё хорошо</item>
+    </string-array>
 </resources>

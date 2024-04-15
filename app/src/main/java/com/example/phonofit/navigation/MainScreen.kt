@@ -4,7 +4,7 @@ import android.annotation.SuppressLint
 import androidx.compose.material.Scaffold
 import androidx.compose.runtime.*
 import androidx.navigation.compose.rememberNavController
-import com.example.spokenenglishapp.firebase.login.LoginViewModel
+import com.example.phonofit.firebase.login.LoginViewModel
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable

@@ -1,4 +1,4 @@
-package com.example.spokenenglishapp.app_screens
+package com.example.phonofit.app_screens
 
 import android.Manifest
 import android.app.Activity

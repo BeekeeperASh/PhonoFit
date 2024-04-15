@@ -1,4 +1,4 @@
-package com.example.spokenenglishapp.app_screens
+package com.example.phonofit.app_screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

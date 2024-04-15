@@ -1,4 +1,4 @@
-package com.example.spokenenglishapp.app_screens
+package com.example.phonofit.app_screens
 
 import android.Manifest
 import android.content.Context
@@ -36,8 +36,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
-import com.example.spokenenglishapp.R
-import com.example.spokenenglishapp.datastore.StoreUserInfo
+import com.example.phonofit.R
+import com.example.phonofit.datastore.StoreUserInfo
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import kotlinx.coroutines.launch

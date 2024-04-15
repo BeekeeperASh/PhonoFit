@@ -1,4 +1,4 @@
-package com.example.phonofit.ui.theme
+package com.example.spokenenglishapp.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

@@ -1,8 +1,7 @@
-package com.example.spokenenglishapp.app_screens
+package com.example.phonofit.app_screens
 
 import android.graphics.Paint
 import android.graphics.PointF
-import android.util.Log
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box

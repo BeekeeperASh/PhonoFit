@@ -4,9 +4,8 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.material3.MaterialTheme
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.spokenenglishapp.firebase.login.LoginViewModel
+import com.example.phonofit.firebase.login.LoginViewModel
 import com.example.phonofit.navigation.MainScreen
 import com.example.phonofit.ui.theme.AppTheme
 
